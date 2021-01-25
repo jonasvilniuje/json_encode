@@ -1,8 +1,6 @@
 # json_encode
 
-JSON obfuscator
-
-JSON obfuscator tool which replaces all the strings in a file with unicodeescape sequences, making it more difficult for a human reader to analyse it.
+This is a JSON obfuscator tool which replaces all the strings in a file with unicodeescape sequences, making it more difficult for a human reader to analyse it.
 
 Example:
 
